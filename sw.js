@@ -1,4 +1,4 @@
-var CACHE_NAME = 'pwa-sample-cache';
+var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
 	'/pwa/',
 ];
